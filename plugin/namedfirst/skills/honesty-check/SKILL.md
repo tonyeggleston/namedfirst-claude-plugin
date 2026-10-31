@@ -17,7 +17,7 @@ Written by NamedFirst (AIGENT, LLC). This is the checklist NamedFirst holds its 
 
 A hit means the text needs an answer, which is a smaller thing than a lie. Many of these sentences are fixable by adding the count, the source or the period.
 
-## Twelve pitches owners get
+## Thirteen pitches owners get
 
 - A JSON or markdown copy of the site, so the AI can read it. None of the engine companies says it reads a separate copy. Clear headings and short paragraphs on the page itself carry through when a tool turns a page into text.
 - A special optimized version of the pages for crawlers. Showing a crawler a different page from the one customers see is cloaking. The honest version improves the one page everybody gets.
@@ -31,6 +31,7 @@ A hit means the text needs an answer, which is a smaller thing than a lie. Many 
 - A star rating beside a client count. A rating is a count of reviews on a site you can open, so ask which site and open it. Ask what counts as a client, because the counts can differ inside one vendor’s own pages. A list that ranks agencies and was written by one of them is the same check: ask who wrote it and where the connection is disclosed.
 - Placement in the Reddit threads ChatGPT reads. Ask whose account posts, whether it is labelled as yours, and who owns it when you stop. A split of answers by whether the engine had read a thread first is a split made after the answers came back. For any placement, ask whether the connection to the business is disclosed and whether the account is what it looks like.
 - A free tool with no signup. A free tool is paid for somehow, so ask what an email unlocks, whose key pays for the runs, and what happens to the address you type. A model answering from the session it runs in, once, signed in, with no search, is not a measurement of any engine.
+- Clicks, calls or direction requests sent to your Google profile. The vendor's own pages call them generated and say Google looks for them. Google's closest written rule, its Maps policy on fake engagement, governs reviews, ratings, edits and photos; the listing that carries any penalty is yours. Ask what is sent, from what, and who carries the penalty.
 
 ## The checklist
 

@@ -12,7 +12,7 @@
       "name": "namedfirst",
       "source": "./plugin/namedfirst",
       "description": "A buyer-question generator, an honesty checklist for AI-visibility pitches, and a reader for a NamedFirst baseline report. It generates and reads; it measures nothing.",
-      "version": "0.1.1"
+      "version": "0.1.2"
     }
   ]
 }
