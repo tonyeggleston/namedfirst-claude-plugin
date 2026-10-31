@@ -1,0 +1,12 @@
+{
+  "name": "namedfirst",
+  "version": "0.1.1",
+  "description": "A buyer-question generator, an honesty checklist for AI-visibility pitches, and a reader for a NamedFirst baseline report. It generates and reads; it measures nothing.",
+  "author": {
+    "name": "AIGENT, LLC",
+    "url": "https://namedfirst.commandmodule.com"
+  },
+  "homepage": "https://namedfirst.commandmodule.com",
+  "license": "MIT",
+  "keywords": ["ai-visibility", "seo", "geo", "aeo", "local-business", "buyer-questions", "honesty-checklist"]
+}
