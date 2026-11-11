@@ -17,13 +17,13 @@ Written by NamedFirst (AIGENT, LLC). This is the checklist NamedFirst holds its 
 
 A hit means the text needs an answer, which is a smaller thing than a lie. Many of these sentences are fixable by adding the count, the source or the period.
 
-## Thirteen pitches owners get
+## Fifteen pitches owners get
 
 - A JSON or markdown copy of the site, so the AI can read it. None of the engine companies says it reads a separate copy. Clear headings and short paragraphs on the page itself carry through when a tool turns a page into text.
 - A special optimized version of the pages for crawlers. Showing a crawler a different page from the one customers see is cloaking. The honest version improves the one page everybody gets.
 - An llms.txt file, or the AI will not find you. Google's guidance says AI text files are not needed to appear in its AI features. Adding one is cheap and harmless. NamedFirst publishes one and labels it, inside the file, as having no demonstrated effect on being cited.
 - Special schema markup that gets you picked. Ordinary structured data that matches what is visible on the page is useful. Markup for a fact that is not on the page breaks Google's rule that markup matches the page.
-- A promised rank in an AI answer, or a date for one. Nobody controls where an answer places a business, and the same question can come back different on a different day. What a seller can promise is work and a measurement.
+- A promised rank in an AI answer, or a date for one. Nobody controls where an answer places a business, and the same question can come back different on a different day. What a seller can promise is work and a measurement. A softer form promises a rise read in a tracker; ask how far the tracker moves when nothing changed.
 - A visibility rating for the business as a single number. A single number averages engines that disagree and hides which one to fix. Ask for each engine separately, with how many questions it was asked.
 - A submission of the site to ChatGPT and the other engines. There is no submission form for ChatGPT's answers. A sitemap submission to Google or Bing is free, takes minutes and is a hint.
 - A way into ChatGPT's answers that turns out to be an ad. Advertising can be a sound decision. Being named inside an answer is a different product, so ask which one is for sale.
@@ -32,6 +32,8 @@ A hit means the text needs an answer, which is a smaller thing than a lie. Many 
 - Placement in the Reddit threads ChatGPT reads. Ask whose account posts, whether it is labelled as yours, and who owns it when you stop. A split of answers by whether the engine had read a thread first is a split made after the answers came back. For any placement, ask whether the connection to the business is disclosed and whether the account is what it looks like.
 - A free tool with no signup. A free tool is paid for somehow, so ask what an email unlocks, whose key pays for the runs, and what happens to the address you type. A model answering from the session it runs in, once, signed in, with no search, is not a measurement of any engine.
 - Clicks, calls or direction requests sent to your Google profile. The vendor's own pages call them generated and say Google looks for them. Google's closest written rule, its Maps policy on fake engagement, governs reviews, ratings, edits and photos; the listing that carries any penalty is yours. Ask what is sent, from what, and who carries the penalty.
+- A free audit with one percentage ("AI recommends you 13% of the time", which was 6 of 47 answers in the audit we read). One scan of a short question list moves a lot between runs; the vendor we read says about 15 points on ten questions. Ask how many answers stand under the percentage, how many times each question was asked, and what was sent along with the question.
+- A dollar figure for the pipeline you are "losing to AI". It is a formula: searches times a click rate, a close rate and a deal size, and one vendor's own page says it lowered the click rate because the first results looked too big to believe. Ask which inputs were measured and which were chosen.
 
 ## The checklist
 

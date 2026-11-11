@@ -1,6 +1,6 @@
 {
   "name": "namedfirst",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A buyer-question generator, an honesty checklist for AI-visibility pitches, and a reader for a NamedFirst baseline report. It generates and reads; it measures nothing.",
   "author": {
     "name": "AIGENT, LLC",
