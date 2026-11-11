@@ -34,6 +34,7 @@ Every answer is read from the same locked model file the report page is built fr
 - `question_detail`: takes an `id`. One question in full, as the report holds it.
 - `lost_questions`: no arguments. The questions the report counts as lost.
 - `sources`: optional `engine`. The sources the engines listed, for one engine or for all.
+- `names_given`: optional `engine`, optional `limit`. Every business each engine named, with how many answers named each. Older reports hold no list and say so.
 
 Start with `baseline_summary`. Use the others to answer the follow-up the customer asks.
 
