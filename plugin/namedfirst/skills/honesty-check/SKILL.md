@@ -17,7 +17,7 @@ Written by NamedFirst (AIGENT, LLC). This is the checklist NamedFirst holds its 
 
 A hit means the text needs an answer, which is a smaller thing than a lie. Many of these sentences are fixable by adding the count, the source or the period.
 
-## Fifteen pitches owners get
+## Sixteen pitches owners get
 
 - A JSON or markdown copy of the site, so the AI can read it. None of the engine companies says it reads a separate copy. Clear headings and short paragraphs on the page itself carry through when a tool turns a page into text.
 - A special optimized version of the pages for crawlers. Showing a crawler a different page from the one customers see is cloaking. The honest version improves the one page everybody gets.
@@ -34,6 +34,7 @@ A hit means the text needs an answer, which is a smaller thing than a lie. Many 
 - Clicks, calls or direction requests sent to your Google profile. The vendor's own pages call them generated and say Google looks for them. Google's closest written rule, its Maps policy on fake engagement, governs reviews, ratings, edits and photos; the listing that carries any penalty is yours. Ask what is sent, from what, and who carries the penalty.
 - A free audit with one percentage ("AI recommends you 13% of the time", which was 6 of 47 answers in the audit we read). One scan of a short question list moves a lot between runs; the vendor we read says about 15 points on ten questions. Ask how many answers stand under the percentage, how many times each question was asked, and what was sent along with the question.
 - A dollar figure for the pipeline you are "losing to AI". It is a formula: searches times a click rate, a close rate and a deal size, and one vendor's own page says it lowered the click rate because the first results looked too big to believe. Ask which inputs were measured and which were chosen.
+- A free tool that replaces the agency and gets you showing up in ChatGPT. A free site audit can be careful work and worth running. An audit reads your pages and asks no AI engine anything; the one we read says in its own instructions never to present its score as a predicted citation rate. Ask whether the tool asked an engine a question, and whether it will ask the same questions again after the changes.
 
 ## The checklist
 
